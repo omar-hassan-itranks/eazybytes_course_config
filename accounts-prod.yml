@@ -6,9 +6,10 @@ build:
 accounts:
   message: "my message production"
   contactDetails:
-    name: "Omar production"
+    name: "Omar bus"
     email: "something@hotmail.com"
   onCallSupport:
 
     - "(555) 555-1234"
+
 
