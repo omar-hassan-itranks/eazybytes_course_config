@@ -1,0 +1,12 @@
+
+build:
+  version: "1.9"
+
+
+accounts:
+  message: "my message production"
+  contactDetails:
+    name: "Omar"
+    email: "something@hotmail.com"
+  onCallSupport:
+    - "(555) 555-1234"
